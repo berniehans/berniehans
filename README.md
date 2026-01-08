@@ -13,7 +13,7 @@ I'm a Computer & Systems Engineer with over 6 years of hands-on experience desig
 To bridge the gap between traditional automation and true cognitive intelligence, I am currently pursuing a **Master's degree in Artificial Intelligence** at Universidad Nacional de Ingeniería (UNI). My goal is to leverage my deep expertise in RPA architecture with cutting-edge techniques in Machine Learning, Deep Learning, and Computer Vision to solve more complex challenges.
 
 - 🤖 **Experience:** 6+ years in the full RPA lifecycle, from analysis and design to development and deployment.
-- 🎓 **Academics:** MSc in AI Candidate (UNI) & BSc in Computer and Systems Engineering (USIL, 2017).
+- 🎓 **Academics:** MSc in AI (UNI, 2025) & BSc in Computer and Systems Engineering (USIL, 2017).
 - 🏆 **Achievements:** Winner of the Indra Hackathon (Brazil) and certified as a Blue Prism Developer.
 - 💡 **Interests:** I'm passionate about exploring the frontiers of technology, which also fuels my love for video games and anime.
 
