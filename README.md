@@ -1,6 +1,6 @@
 # Hi there, I'm Bernie Benitez 👋
 
-**RPA Solutions Architect & MSc in Artificial Intelligence Candidate**
+**RPA Solutions Architect & MSc in Artificial Intelligence**
 
 *Building the next generation of Intelligent Automation solutions by merging enterprise-scale RPA with advanced AI.*
 
