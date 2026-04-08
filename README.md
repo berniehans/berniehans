@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a Computer & Systems Engineer with over 6 years of hands-on experience designing and deploying robust Robotic Process Automation (RPA) solutions for leading global companies like **Indra**, **NTT Data**, and **Konecta**. My career has been driven by a passion for optimizing complex business processes and delivering measurable value through technology.
+I'm a Computer & Systems Engineer with over 6 years of hands-on experience designing and deploying robust Robotic Process Automation (RPA) solutions for leading global companies like **Indra**, **NTT Data**, **IBM** and **Konecta**. My career has been driven by a passion for optimizing complex business processes and delivering measurable value through technology.
 
 To bridge the gap between traditional automation and true cognitive intelligence, I am currently pursuing a **Master's degree in Artificial Intelligence** at Universidad Nacional de Ingeniería (UNI). My goal is to leverage my deep expertise in RPA architecture with cutting-edge techniques in Machine Learning, Deep Learning, and Computer Vision to solve more complex challenges.
 
