@@ -8,27 +8,29 @@
 
 ### About Me
 
-I'm a Computer & Systems Engineer with over 6 years of hands-on experience designing and deploying robust Robotic Process Automation (RPA) solutions for leading global companies like **Indra**, **NTT Data**, **IBM** and **Konecta**. My career has been driven by a passion for optimizing complex business processes and delivering measurable value through technology.
+I'm a Computer & Systems Engineer with over 7 years of experience designing and deploying robust Robotic Process Automation (RPA) solutions for leading global companies like **Indra**, **NTT Data**, **IBM**, and **Konecta**. My career is driven by optimizing complex business processes through technology.
 
-To bridge the gap between traditional automation and true cognitive intelligence, I am currently pursuing a **Master's degree in Artificial Intelligence** at Universidad Nacional de Ingeniería (UNI). My goal is to leverage my deep expertise in RPA architecture with cutting-edge techniques in Machine Learning, Deep Learning, and Computer Vision to solve more complex challenges.
+I have completed my **Master's degree in Artificial Intelligence** at Universidad Nacional de Ingeniería (UNI) with a score of **17/20**. My research and professional focus lie at the intersection of RPA architecture and cutting-edge Machine Learning.
 
-- 🤖 **Experience:** 6+ years in the full RPA lifecycle, from analysis and design to development and deployment.
+- 🤖 **Experience:** 7+ years in the full RPA lifecycle, from analysis and design to deployment.
 - 🎓 **Academics:** MSc in AI (UNI, 2025) & BSc in Computer and Systems Engineering (USIL, 2017).
-- 🏆 **Achievements:** Winner of the Indra Hackathon (Brazil) and certified as a Blue Prism Developer.
-- 💡 **Interests:** I'm passionate about exploring the frontiers of technology, which also fuels my love for video games and anime.
+- 🔬 **Research:** Focusing my Master's thesis on **Facial Expression Recognition** using Deep Learning.
+- 🏆 **Achievements:** NASA Space Apps Challenge 2025 **National Winner** & Global Finalist (Top 40 out of ~2,000 teams), and Winner of the Indra Hackathon (Brazil).
+- 💡 **Interests:** I am passionate about technology, video games, and anime.
 
 ### 🛠️ My Tech Stack
 
 | Category | Skills |
 | :--- | :--- |
-| **Programming** | `Python` `Java` `C#` `VBA` `SQL` |
-| **AI / Machine Learning** | `TensorFlow` `Keras` `PyTorch` `Scikit-Learn` `Pandas` `NumPy` |
-| **RPA Platforms** | `Blue Prism` `Automation Anywhere` `Power Platform` |
-| **Tools & Platforms** | `Git` `GitHub` `Jira` `Scrum` |
+| **Programming** | `Python` (Advanced) `Java` `C#` `SQL` `Rust` (Exploring) |
+| **AI / Machine Learning** | `TensorFlow` `PyTorch` `Scikit-Learn` `Pandas` `AWS Bedrock` `SageMaker` |
+| **RPA Platforms** | `Blue Prism` (Certified) `Automation Anywhere` `Robocorp` `Power Automate` |
+| **Tools & Cloud** | `AWS` (Lambda, Bedrock) `Git` `Docker` `Jira` `Scrum` |
 
 ### 📈 Pinned Projects
 
-*Here I will showcase my main projects applying concepts from my Master's Degree. Stay tuned!*
+- **[AxiomRAG](https://github.com/berniehans/AxiomRAG)**: An industrial-grade RAG engine featuring sub-second reranking and native CUDA 12.4 acceleration. It implements a "Parent-Child" retrieval strategy and weighted hybrid search (BM25 + BGE-M3) to eliminate context loss and hallucinations, with an MLOps baseline powered by Ragas.
+- **[OmniModel Auditor](https://github.com/berniehans/OmniModel_Auditor)**: A systematic evaluation framework for local LLMs (Ollama) optimized for consumer hardware (NVIDIA RTX 3060). It audits TPS, Latency, Accuracy, and Instruction Following (JSON compliance) with real-time GPU telemetry.
 
 ---
 
