@@ -1,36 +1,37 @@
 # Hi there, I'm Bernie Benitez 👋
 
-**RPA Solutions Architect & MSc in Artificial Intelligence**
+**AI & RPA Solutions Architect | MSc in Artificial Intelligence**
 
-*Building the next generation of Intelligent Automation solutions by merging enterprise-scale RPA with advanced AI.*
+*Building the next generation of Intelligent Automation solutions by merging enterprise-scale RPA with Agentic AI and local-first data sovereignty.*
 
 ---
 
 ### About Me
 
-I'm a Computer & Systems Engineer with over 7 years of experience designing and deploying robust Robotic Process Automation (RPA) solutions for leading global companies like **Indra**, **NTT Data**, **IBM**, and **Konecta**. My career is driven by optimizing complex business processes through technology.
+I'm a Computer & Systems Engineer with over 7 years of experience designing and deploying robust Robotic Process Automation (RPA) and Generative AI solutions for leading global companies like **Indra**, **NTT Data**, **Belltech**, and **Seventec**. My career is driven by optimizing complex business processes through cutting-edge technology and autonomous agents.
 
-I have completed my **Master's degree in Artificial Intelligence** at Universidad Nacional de Ingeniería (UNI) with a score of **17/20**. My research and professional focus lie at the intersection of RPA architecture and cutting-edge Machine Learning.
+I hold a **Master's degree in Artificial Intelligence** from Universidad Nacional de Ingeniería (UNI) with a score of **17/20**. My research and professional focus lie at the intersection of rigorous RPA architectures, advanced web automation, and autonomous ML systems.
 
-- 🤖 **Experience:** 7+ years in the full RPA lifecycle, from analysis and design to deployment.
+- 🤖 **Experience:** 7+ years managing the full automation lifecycle (RPA & AI). Expertise in building Generative AI agents and deploying ML models to production.
 - 🎓 **Academics:** MSc in AI (UNI, 2025) & BSc in Computer and Systems Engineering (USIL, 2017).
-- 🔬 **Research:** Focusing my Master's thesis on **Facial Expression Recognition** using Deep Learning.
-- 🏆 **Achievements:** NASA Space Apps Challenge 2025 **National Winner** & Global Finalist (Top 40 out of ~2,000 teams), and Winner of the Indra Hackathon (Brazil).
-- 💡 **Interests:** I am passionate about technology, video games, and anime.
+- 🔬 **Research:** Master's thesis focused on **Facial Expression Recognition** under synthetic degradation using ResNet-18. 
+- 🏆 **Achievements:** NASA Space Apps Challenge 2025 **National Winner** & Global Finalist, and Winner of the Indra Hackathon (Brazil).
+- 💡 **Interests:** Developing local-first AI solutions, benchmarking autonomous frameworks, video games, and anime.
 
 ### 🛠️ My Tech Stack
 
 | Category | Skills |
 | :--- | :--- |
-| **Programming** | `Python` (Advanced) `Java` `C#` `SQL` `Rust` (Exploring) |
-| **AI / Machine Learning** | `TensorFlow` `PyTorch` `Scikit-Learn` `Pandas` `AWS Bedrock` `SageMaker` |
-| **RPA Platforms** | `Blue Prism` (Certified) `Automation Anywhere` `Robocorp` `Power Automate` |
-| **Tools & Cloud** | `AWS` (Lambda, Bedrock) `Git` `Docker` `Jira` `Scrum` |
+| **Programming & Scripting** | `Python` (Advanced) `Java` `C#` `SQL` `Google Apps Script` `Rust` |
+| **Advanced Automation** | `Selenium` `Playwright` `Blue Prism` (Certified) `Automation Anywhere` `Robocorp` `Power Automate` |
+| **AI / Machine Learning** | `LangGraph` `LangChain` `TensorFlow` `PyTorch` `Scikit-Learn` `Pandas` |
+| **Cloud & LLM Infrastructure**| `AWS` (SageMaker, Bedrock, Lambda) `DeepSeek / OpenRouter` `Qdrant` |
+| **DevOps & MLOps** | `Docker` `Git` `CUDA` `Ragas` `Jira` `Scrum` |
 
 ### 📈 Pinned Projects
 
-- **[AxiomRAG](https://github.com/berniehans/AxiomRAG)**: An industrial-grade RAG engine featuring sub-second reranking and native CUDA 12.4 acceleration. It implements a "Parent-Child" retrieval strategy and weighted hybrid search (BM25 + BGE-M3) to eliminate context loss and hallucinations, with an MLOps baseline powered by Ragas.
-- **[OmniModel Auditor](https://github.com/berniehans/OmniModel_Auditor)**: A systematic evaluation framework for local LLMs (Ollama) optimized for consumer hardware (NVIDIA RTX 3060). It audits TPS, Latency, Accuracy, and Instruction Following (JSON compliance) with real-time GPU telemetry.
+- **[AxiomRAG](https://github.com/berniehans/AxiomRAG)**: An industrial-grade, self-corrective RAG engine built with **LangGraph** and **LangChain**. It features asynchronous DeepSeek LLM routing (V4-Flash/Pro), a "Parent-Child" retrieval strategy, and weighted hybrid search (BM25 + BGE-M3) with native CUDA 12.4 acceleration. Designed for data sovereignty and zero hallucinations, backed by strict MLOps baselines.
+- **[OmniModel Auditor](https://github.com/berniehans/OmniModel_Auditor)**: A systematic evaluation framework for local LLMs optimized for consumer hardware (NVIDIA RTX). It audits TPS, Latency, Accuracy, and structured JSON compliance, utilizing autonomous agents like **ZeroClaw** and **OpenFang** as specific benchmarking test cases with real-time GPU telemetry.
 
 ---
 
