@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Bernie Benitez - animated introduction">
+<title>Bernie Benitez - animated introduction</title>
+<defs><linearGradient id="accent"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/></linearGradient><clipPath id="typing"><rect class="reveal" x="275" y="173" width="550" height="54"/></clipPath></defs>
+<style>.reveal{animation:type 7s steps(28,end) infinite}.cursor{animation:blink 1s steps(2,end) infinite}@keyframes type{0%,10%{width:0}45%,90%,100%{width:550}}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.reveal,.cursor{animation:none}}</style>
+<g fill="none" stroke="#a78bfa" stroke-width="2" opacity=".45"><circle cx="125" cy="123" r="43"/><ellipse cx="125" cy="123" rx="65" ry="23" transform="rotate(-35 125 123)"/><circle cx="975" cy="123" r="43"/><ellipse cx="975" cy="123" rx="65" ry="23" transform="rotate(35 975 123)"/></g>
+<circle cx="165" cy="98" r="5" fill="#06b6d4"/><circle cx="942" cy="153" r="5" fill="#8b5cf6"/>
+<g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif"><text x="550" y="57" fill="#64748b" font-size="17" letter-spacing="5">HELLO / HOLA</text><text x="550" y="130" fill="url(#accent)" font-size="62" font-weight="700">Bernie Benitez</text><text x="550" y="163" fill="#64748b" font-size="22">Intelligent Automation &amp; AI Solutions Architect</text></g>
+<g clip-path="url(#typing)" font-family="Consolas,monospace" font-size="30" fill="#8b5cf6"><text x="287" y="214">I build useful automation.</text></g><rect class="cursor" x="813" y="190" width="3" height="29" fill="#8b5cf6"/>
+<text x="550" y="259" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#64748b">Lima, Peru · Enterprise AI · APIs · Automation</text>
+<rect x="360" y="285" width="380" height="2" rx="1" fill="url(#accent)"/>
+</svg>

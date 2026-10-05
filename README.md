@@ -1,85 +1,82 @@
-![Bernie Benitez — AI & RPA Solutions Architect](assets/profile-banner.svg)
+<p align="center"><img src="assets/profile-header.svg" width="100%" alt="Bernie Benitez · Intelligent Automation & AI Solutions Architect" /></p>
+
+<p align="center"><a href="README.md">English</a> · <a href="README.es.md">Español</a></p>
+
+<p align="center"><a href="https://www.linkedin.com/in/bhbenitez/">LinkedIn</a> · <a href="mailto:berniebeniteza@gmail.com">Email</a> · <a href="CAREER.md">Full background</a> · <a href="https://www.credly.com/badges/6b337c94-aaa3-4324-8088-55798c31cacf?source=linked_in_profile">Certification</a></p>
+
+I design and deliver enterprise automation, from process discovery and architecture to deployment and support. My work combines Microsoft Power Platform, Copilot Studio, RPA, Python APIs and generative AI on AWS.
+
+**Currently at EVOL** · AI & Intelligent Automation Architect, since August 2026.
 
 <p align="center">
-  <strong>English</strong> · <a href="README.es.md">Español</a><br />
-  <a href="https://www.linkedin.com/in/bhbenitez/">LinkedIn</a> · <a href="mailto:berniebeniteza@gmail.com">Email</a> · <a href="https://orcid.org/0009-0002-9572-8688">ORCID</a>
+  <img src="assets/specialty-workflow.svg" width="18%" alt="Power Platform: Automate / Apps" />
+  <img src="assets/specialty-agent.svg" width="18%" alt="AI Agents: Copilot / Bedrock" />
+  <img src="assets/specialty-cloud.svg" width="18%" alt="AWS & APIs: Cloud / Python" />
+  <img src="assets/specialty-robot.svg" width="18%" alt="RPA: Enterprise automation" />
+  <img src="assets/specialty-search.svg" width="18%" alt="RAG & Evals: Retrieval / Quality" />
 </p>
 
-I'm a **Computer & Systems Engineer** with **7+ years in RPA and AI**, working across the full automation lifecycle at Indra, NTT Data, Belltech and Seventec. I build around **local-first AI, autonomous agents and practical automation**.
+## 🚀 AI & automation projects
 
-**Open to work:** AI Solutions Architect · RPA Architect · Senior AI Engineer  
-Peru · Remote · Hybrid · Onsite
+<p align="center">
+  <a href="https://github.com/berniehans/AxiomRAG"><img src="assets/project-axiomrag-en.svg" width="49%" alt="AxiomRAG: Technical documents into cited answers. Hybrid retrieval and GPU reranking." /></a>
+  <a href="https://github.com/berniehans/OmniModel_Auditor"><img src="assets/project-omnimodel_auditor-en.svg" width="49%" alt="OmniModel Auditor: Compare local LLMs on consumer GPUs. Accuracy, JSON compliance and efficiency." /></a>
+</p>
 
-## Selected projects
+<p align="center">
+  <a href="https://github.com/berniehans/OmniSearch_Mesh"><img src="assets/project-omnisearch_mesh-en.svg" width="49%" alt="OmniSearch Mesh: Six algorithms. One graph. Live race. Reproducible seeds and interactive paths." /></a>
+  <a href="https://github.com/berniehans/rust-fundamentals"><img src="assets/project-rust-fundamentals-en.svg" width="49%" alt="Rust Fundamentals: 20 chapters in one Cargo workspace. Ownership, concurrency and doc-tests." /></a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/berniehans/AxiomRAG"><img src="assets/axiomrag-overview.svg" width="100%" alt="Simplified AxiomRAG architecture: indexing, hybrid retrieval, reranking, generation and evaluation." /></a>
-      <h3>AxiomRAG</h3>
-      <p>Retrieve context from technical documents and generate answers with citations. Hybrid search, parent-child retrieval and GPU reranking.</p>
-      <p><sub>Python · FastAPI · Qdrant · CUDA</sub></p>
-      <p><a href="https://github.com/berniehans/AxiomRAG"><strong>Architecture & code →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/berniehans/OmniModel_Auditor"><img src="https://raw.githubusercontent.com/berniehans/OmniModel_Auditor/master/plots/efficiency_scatter.png" width="100%" alt="Actual OmniModel Auditor benchmark chart comparing inference speed and VRAM consumption." /></a>
-      <h3>OmniModel Auditor</h3>
-      <p>Compare local LLMs on consumer hardware: accuracy, JSON compliance, latency and GPU usage.</p>
-      <p><sub>Python · Ollama · Pandas · Matplotlib</sub></p>
-      <p><a href="https://github.com/berniehans/OmniModel_Auditor"><strong>Benchmark reports & code →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/berniehans/OmniSearch_Mesh"><img src="https://raw.githubusercontent.com/berniehans/OmniSearch_Mesh/main/assets/simulation.webp" width="100%" alt="Actual animated demo of six pathfinding algorithms competing on a graph." /></a>
-      <h3>OmniSearch Mesh</h3>
-      <p>Watch six search algorithms compete on the same graph, with reproducible seeds and draggable endpoints.</p>
-      <p><sub>JavaScript · HTML5 Canvas · CSS</sub></p>
-      <p><a href="https://github.com/berniehans/OmniSearch_Mesh"><strong>Animation & code →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/berniehans/rust-fundamentals"><img src="assets/rust-learning-map.svg" width="100%" alt="Illustrated learning map: ownership, types, concurrency and doc-tests." /></a>
-      <h3>rust-fundamentals</h3>
-      <p>Explore 20 chapters of idiomatic Rust, from ownership and memory layout to concurrency and algorithm validation.</p>
-      <p><sub>Rust · Cargo · Doc-tests</sub></p>
-      <p><a href="https://github.com/berniehans/rust-fundamentals"><strong>Examples & code →</strong></a></p>
-    </td>
-  </tr>
-</table>
-
-**More to explore:** [LazyArcade — six retro games in a Rust terminal app](https://github.com/berniehans/lazyarcade) · [NASA Space Apps scraping tools](https://github.com/berniehans/NSAC_SCRAPER)
-
-## Research & milestones
-
-- **NASA Space Apps Challenge 2025:** National Winner & Global Finalist.
-- **Indra Hackathon:** Winner in Brazil.
-- **MSc in Artificial Intelligence — UNI, 2025:** 17/20. Thesis on facial expression recognition under synthetic degradation using ResNet-18.
-- **BSc in Computer & Systems Engineering — USIL, 2017.**
-
-## Core technologies
-
-![Python](https://img.shields.io/badge/Python-355b8c?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-355b8c?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-355b8c?style=flat-square&logo=pytorch&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-355b8c?style=flat-square&logo=qdrant&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-355b8c?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-355b8c?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Blue Prism](https://img.shields.io/badge/Blue%20Prism-6b5298?style=flat-square&logo=blueprism&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-6b5298?style=flat-square&logo=powerautomate&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-6b5298?style=flat-square&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6b5298?style=flat-square&logo=postgresql&logoColor=white)
+**Also building:** [LazyArcade](https://github.com/berniehans/lazyarcade) · [NASA Space Apps tools](https://github.com/berniehans/NSAC_SCRAPER)
 
 <details>
-<summary>More technologies & practices</summary>
+<summary>🎬 Project demos, charts & architecture</summary>
 
-- **AI & evaluation:** LangChain, TensorFlow, Scikit-learn, Ragas.
-- **Automation:** Automation Anywhere, Selenium, Playwright.
-- **Cloud & infrastructure:** AWS SageMaker, AWS Bedrock, CUDA.
-- **Languages & delivery:** Java, C#, Git, Jira, Scrum.
+### AxiomRAG
+
+<a href="https://github.com/berniehans/AxiomRAG"><img src="assets/axiomrag-overview.svg" width="700" alt="AxiomRAG - architecture overview" /></a>
+
+### OmniModel Auditor
+
+<a href="https://github.com/berniehans/OmniModel_Auditor"><img src="https://raw.githubusercontent.com/berniehans/OmniModel_Auditor/master/plots/efficiency_scatter.png" width="700" alt="OmniModel Auditor - project preview" /></a>
+
+### OmniSearch Mesh
+
+<a href="https://github.com/berniehans/OmniSearch_Mesh"><img src="https://raw.githubusercontent.com/berniehans/OmniSearch_Mesh/main/assets/simulation.webp" width="700" alt="OmniSearch Mesh - project preview" /></a>
+
+</details>
+
+## 🧭 Professional background
+
+| Company & role | Period |
+|---|---|
+| **EVOL** · AI & Intelligent Automation Architect | 2026-08 – Present |
+| **Seventec** · AI & RPA Solutions Architect | 2023-11 – 2025-05 |
+
+Earlier: Gesnext · Belltech · NTT Data · Indra · Equifax.  
+[**Full background →**](CAREER.md)
+
+## 🎓 Education & milestones
+
+- **NASA Space Apps Challenge 2025:** National winner.
+- **International Indra Hackathon:** Winner.
+- **AI master's program · UNI, 2024–2025:** Coursework completed; **thesis pending**. Coursework average: 17/20.
+- **Computer and Systems Engineering · USIL:** Degree obtained in 2017.
+- [**Blue Prism Certified Developer ↗**](https://www.credly.com/badges/6b337c94-aaa3-4324-8088-55798c31cacf?source=linked_in_profile)
+
+<details>
+<summary>🛠️ Technical competencies & languages</summary>
+
+- **Microsoft Power Platform & RPA:** Power Automate Cloud/Desktop, Power Apps, Copilot Studio, SharePoint Lists, Actions/Tools, webhooks, Blue Prism, Automation Anywhere A360, Robocorp, Selenium, Playwright.
+- **APIs, Data & BI:** Python, FastAPI, Flask, REST, Bearer Tokens, API Keys, SQL, Bulk Insert, stored procedures, Power BI, Power Query, DAX, dimensional ETL.
+- **AWS, AI & Evals:** Bedrock, SageMaker, Lambda, S3, API Gateway, IAM, CloudWatch, Textract, Docker, LLMs, RAG, Golden Datasets, Ragas, Qdrant, prompt engineering.
+- **Languages:** Java, C#, VBA.
+
+Spanish: native · English: advanced
 
 </details>
 
 ---
 
-**Let's build useful automation.**  
-[Connect on LinkedIn](https://www.linkedin.com/in/bhbenitez/) · [Email me](mailto:berniebeniteza@gmail.com) · [Research profile](https://orcid.org/0009-0002-9572-8688)
+<p align="center"><strong>Let's build useful automation.</strong><br /><a href="https://www.linkedin.com/in/bhbenitez/">LinkedIn</a> · <a href="mailto:berniebeniteza@gmail.com">Email</a> · <a href="https://orcid.org/0009-0002-9572-8688">ORCID</a></p>

@@ -1,0 +1,82 @@
+{
+  "name": "Bernie Benitez",
+  "username": "berniehans",
+  "title": "Intelligent Automation & AI Solutions Architect",
+  "location": "Lima, Peru",
+  "career_start": "2017",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/bhbenitez/",
+    "email": "mailto:berniebeniteza@gmail.com",
+    "orcid": "https://orcid.org/0009-0002-9572-8688",
+    "certification": "https://www.credly.com/badges/6b337c94-aaa3-4324-8088-55798c31cacf?source=linked_in_profile"
+  },
+  "summary": {
+    "en": "I design and deliver enterprise automation, from process discovery and architecture to deployment and support. My work combines Microsoft Power Platform, Copilot Studio, RPA, Python APIs and generative AI on AWS.",
+    "es": "Diseño e implemento automatización empresarial, desde el levantamiento y la arquitectura hasta el despliegue y soporte. Mi trabajo combina Microsoft Power Platform, Copilot Studio, RPA, APIs en Python e IA generativa en AWS."
+  },
+  "specialties": [
+    {"label": "Power Platform", "detail": "Automate / Apps", "kind": "workflow"},
+    {"label": "AI Agents", "detail": "Copilot / Bedrock", "kind": "agent"},
+    {"label": "AWS & APIs", "detail": "Cloud / Python", "kind": "cloud"},
+    {"label": "RPA", "detail": "Enterprise automation", "kind": "robot"},
+    {"label": "RAG & Evals", "detail": "Retrieval / Quality", "kind": "search"}
+  ],
+  "experience": [
+    {
+      "company": "EVOL", "role": "AI & Intelligent Automation Architect", "start": "2026-08", "end": null,
+      "points": {
+        "en": ["Design and implement enterprise AI agents and automation with Microsoft Power Platform and Copilot Studio.", "Connect agents to SharePoint and SharePoint Lists, manage context variables, and publish to Teams and Microsoft 365 Copilot.", "Integrate systems through Actions/Tools, Power Automate cloud flows, REST APIs and webhooks.", "Automate document and image ingestion, text/Markdown conversion, metadata normalization and SharePoint tracking.", "Evaluate agents with Golden Datasets, analyze prompt and grounding patterns, and apply telemetry, Entra ID, RBAC and DLP controls."],
+        "es": ["Diseño e implementación de agentes de IA y automatización empresarial con Microsoft Power Platform y Copilot Studio.", "Conexión de agentes con SharePoint y SharePoint Lists, gestión de variables de contexto y publicación en Teams y Microsoft 365 Copilot.", "Integración de sistemas mediante Actions/Tools, cloud flows de Power Automate, APIs REST y webhooks.", "Automatización de ingesta documental e imágenes, conversión a TXT/Markdown, normalización de metadatos y seguimiento en SharePoint.", "Evaluación de agentes con Golden Datasets, análisis de prompts y grounding, y controles de telemetría, Entra ID, RBAC y DLP."]
+      }
+    },
+    {
+      "company": "Seventec", "role": "AI & RPA Solutions Architect", "start": "2023-11", "end": "2025-05",
+      "points": {
+        "en": ["Design generative AI agents and chatbots with Amazon Bedrock and serverless services for enterprise automation.", "Orchestrate a process across two virtual machines using Power Apps, Power Automate and two queues to track states, authentication and execution continuity.", "Expose Amazon Textract through a centralized API for multiple attended RPA instances.", "Use SageMaker, Lambda, S3, API Gateway, IAM and CloudWatch for processing, integration and monitoring."],
+        "es": ["Diseño de agentes y chatbots de IA generativa con Amazon Bedrock y servicios serverless para automatización empresarial.", "Orquestación de un proceso entre dos máquinas virtuales mediante Power Apps, Power Automate y dos colas para trazar estados, autenticación y continuidad de ejecución.", "Exposición de Amazon Textract mediante una API centralizada para múltiples instancias de RPA atendido.", "Uso de SageMaker, Lambda, S3, API Gateway, IAM y CloudWatch para procesamiento, integración y monitoreo."]
+      }
+    },
+    {
+      "company": "Gesnext", "role": "Senior RPA Consultant", "start": "2022-12", "end": "2023-06",
+      "points": {"en": ["Audit and refactor RPA processes, resolve incidents and provide advanced production support for operational continuity."], "es": ["Auditoría y refactorización de procesos RPA, resolución de incidencias y soporte avanzado en producción para asegurar continuidad operativa."]}
+    },
+    {
+      "company": "Belltech", "role": "RPA Consultant", "start": "2022-01", "end": "2022-11",
+      "points": {"en": ["Design scalable Automation Anywhere A360 architectures with a focus on robustness and security.", "Define best practices and controlled deployments across Development, QA and Production."], "es": ["Diseño de arquitecturas escalables en Automation Anywhere A360 con foco en robustez y seguridad.", "Definición de buenas prácticas y despliegues controlados en Desarrollo, QA y Producción."]}
+    },
+    {
+      "company": "NTT Data", "role": "Senior RPA Developer", "start": "2021-08", "end": "2022-01",
+      "points": {"en": ["Maintain and enhance production robots, monitor operations, analyze root causes and implement corrective actions.", "Train new consultants in automation tools and team methodologies."], "es": ["Mantenimiento y desarrollo evolutivo de robots, monitoreo productivo, análisis de causa raíz y medidas correctivas.", "Capacitación a nuevos consultores en herramientas de automatización y metodologías del equipo."]}
+    },
+    {
+      "company": "Indra", "role": "RPA Analyst - Blue Prism", "start": "2018-06", "end": "2019-12", "second_period": {"start": "2020-08", "end": "2021-07"},
+      "points": {"en": ["Deliver the full RPA lifecycle: discovery, design, development, UAT, deployment and post-production support.", "Process hundreds of thousands of records using SQL Bulk Insert, temporary tables and stored procedures, generating RPA Work Items.", "Design and stabilize Blue Prism robots, manage inputs, outputs and exceptions, and improve production reliability."], "es": ["Gestión del ciclo completo de RPA: levantamiento, diseño, desarrollo, UAT, despliegue y soporte post-producción.", "Procesamiento de cientos de miles de registros mediante SQL Bulk Insert, tablas temporales y stored procedures, con generación de Work Items para RPA.", "Diseño y estabilización de robots Blue Prism, gestión de entradas, salidas y excepciones, y mejora continua en producción."]}
+    },
+    {
+      "company": "Equifax", "role": "Analyst Programmer", "start": "2017-12", "end": "2018-03",
+      "points": {"en": ["Develop Java 8 backend services for Infocorp, with continuous integration and version control using Jenkins, SVN and Spring Tool Suite."], "es": ["Desarrollo backend en Java 8 para Infocorp, con integración continua y control de versiones mediante Jenkins, SVN y Spring Tool Suite."]}
+    }
+  ],
+  "education": [
+    {"institution": "Universidad Nacional de Ingeniería (UNI)", "program": {"en": "Master's program in Artificial Intelligence", "es": "Maestría en Inteligencia Artificial"}, "dates": "2024-2025", "status": {"en": "Coursework completed; thesis pending. Coursework average: 17/20.", "es": "Cursos completados; tesis pendiente. Promedio de cursos: 17/20."}, "detail": {"en": "Computer vision, NLP, transformers and deep learning. Research in facial expression recognition and emotion detection, with data balancing and model optimization.", "es": "Visión por computador, NLP, transformers y deep learning. Investigación en reconocimiento de expresiones faciales y detección de emociones, con balanceo de datos y optimización de modelos."}},
+    {"institution": "Universidad San Ignacio de Loyola (USIL)", "program": {"en": "Computer and Systems Engineering", "es": "Ingeniería en Informática y Sistemas"}, "dates": "2017", "status": {"en": "Graduated; degree obtained in 2017.", "es": "Egresado; grado obtenido en 2017."}, "detail": {"en": "", "es": ""}}
+  ],
+  "achievements": [
+    {"en": "National winner of NASA Space Apps Challenge 2025. Developed a Python REST API as the backend for an Amazon Bedrock agent with a knowledge base for a web application.", "es": "Ganador nacional del NASA Space Apps Challenge 2025. Desarrollo de una API REST en Python como backend de un agente Amazon Bedrock con base de conocimiento para una aplicación web."},
+    {"en": "Winner of the International Indra Hackathon.", "es": "Ganador del Hackathon Internacional de Indra."}
+  ],
+  "certification": "Blue Prism Certified Developer",
+  "languages": {"en": "Spanish: native · English: advanced", "es": "Español: nativo · Inglés: avanzado"},
+  "skills": [
+    {"category": "Microsoft Power Platform & RPA", "items": "Power Automate Cloud/Desktop, Power Apps, Copilot Studio, SharePoint Lists, Actions/Tools, webhooks, Blue Prism, Automation Anywhere A360, Robocorp, Selenium, Playwright"},
+    {"category": "APIs, Data & BI", "items": "Python, FastAPI, Flask, REST, Bearer Tokens, API Keys, SQL, Bulk Insert, stored procedures, Power BI, Power Query, DAX, dimensional ETL"},
+    {"category": "AWS, AI & Evals", "items": "Bedrock, SageMaker, Lambda, S3, API Gateway, IAM, CloudWatch, Textract, Docker, LLMs, RAG, Golden Datasets, Ragas, Qdrant, prompt engineering"},
+    {"category": "Languages", "items": "Java, C#, VBA"}
+  ],
+  "projects": [
+    {"name": "AxiomRAG", "repo": "AxiomRAG", "category": "RAG / AI ENGINEERING", "lines": {"en": ["Technical documents into cited answers.", "Hybrid retrieval and GPU reranking."], "es": ["Documentos técnicos y respuestas con citas.", "Búsqueda híbrida y reranking en GPU."]}, "stack": "Python · FastAPI · Qdrant · CUDA", "kind": "search", "preview": "assets/axiomrag-overview.svg"},
+    {"name": "OmniModel Auditor", "repo": "OmniModel_Auditor", "category": "LOCAL AI / EVALUATION", "lines": {"en": ["Compare local LLMs on consumer GPUs.", "Accuracy, JSON compliance and efficiency."], "es": ["Compara LLM locales en GPU de consumo.", "Precisión, JSON y eficiencia de hardware."]}, "stack": "Python · Ollama · Pandas", "kind": "chart", "preview": "https://raw.githubusercontent.com/berniehans/OmniModel_Auditor/master/plots/efficiency_scatter.png"},
+    {"name": "OmniSearch Mesh", "repo": "OmniSearch_Mesh", "category": "ALGORITHMS / VISUALIZATION", "lines": {"en": ["Six algorithms. One graph. Live race.", "Reproducible seeds and interactive paths."], "es": ["Seis algoritmos. Un grafo. Carrera en vivo.", "Semillas reproducibles y rutas interactivas."]}, "stack": "JavaScript · HTML5 Canvas", "kind": "mesh", "preview": "https://raw.githubusercontent.com/berniehans/OmniSearch_Mesh/main/assets/simulation.webp"},
+    {"name": "Rust Fundamentals", "repo": "rust-fundamentals", "category": "SYSTEMS / LEARNING", "lines": {"en": ["20 chapters in one Cargo workspace.", "Ownership, concurrency and doc-tests."], "es": ["20 capítulos en un workspace de Cargo.", "Ownership, concurrencia y doc-tests." ]}, "stack": "Rust · Cargo · Doc-tests", "kind": "code", "preview": "assets/rust-learning-map.svg"}
+  ]
+}
