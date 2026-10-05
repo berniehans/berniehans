@@ -111,12 +111,12 @@ def readme(lang):
         body += '**Currently at EVOL** · AI & Intelligent Automation Architect, since August 2026.\n\n'
     else:
         body += '**Actualmente en EVOL** · AI & Intelligent Automation Architect, desde agosto de 2026.\n\n'
-    body += '<p align="center">\n' + '\n'.join(f'  <img src="assets/specialty-{s["kind"]}.svg" width="18%" alt="{s["label"]}: {s["detail"]}" />' for s in DATA['specialties']) + '\n</p>\n\n'
+    body += '<p align="center">\n' + '\n'.join(f'  <img src="assets/specialty-{s["kind"]}.svg" width="145" alt="{s["label"]}: {s["detail"]}" />' for s in DATA['specialties']) + '\n</p>\n\n'
     body += '## 🚀 AI & automation projects\n\n' if lang == 'en' else '## 🚀 Proyectos de IA y automatización\n\n'
     for start in (0, 2):
         body += '<p align="center">\n'
         for p in DATA['projects'][start:start+2]:
-            body += f'  <a href="https://github.com/{DATA["username"]}/{p["repo"]}"><img src="assets/project-{p["repo"].lower()}-{lang}.svg" width="49%" alt="{p["name"]}: {escape(" ".join(p["lines"][lang]), quote=True)}" /></a>\n'
+            body += f'  <a href="https://github.com/{DATA["username"]}/{p["repo"]}"><img src="assets/project-{p["repo"].lower()}-{lang}.svg" width="400" alt="{p["name"]}: {escape(" ".join(p["lines"][lang]), quote=True)}" /></a>\n'
         body += '</p>\n\n'
     body += ('**Also building:** ' if lang == 'en' else '**Más proyectos:** ') + '[LazyArcade](https://github.com/berniehans/lazyarcade) · [NASA Space Apps tools](https://github.com/berniehans/NSAC_SCRAPER)\n\n'
     body += '<details>\n<summary>🎬 ' + ('Project demos, charts & architecture' if lang == 'en' else 'Demos, gráficos y arquitectura de los proyectos') + '</summary>\n\n'

@@ -9,23 +9,23 @@ I design and deliver enterprise automation, from process discovery and architect
 **Currently at EVOL** · AI & Intelligent Automation Architect, since August 2026.
 
 <p align="center">
-  <img src="assets/specialty-workflow.svg" width="18%" alt="Power Platform: Automate / Apps" />
-  <img src="assets/specialty-agent.svg" width="18%" alt="AI Agents: Copilot / Bedrock" />
-  <img src="assets/specialty-cloud.svg" width="18%" alt="AWS & APIs: Cloud / Python" />
-  <img src="assets/specialty-robot.svg" width="18%" alt="RPA: Enterprise automation" />
-  <img src="assets/specialty-search.svg" width="18%" alt="RAG & Evals: Retrieval / Quality" />
+  <img src="assets/specialty-workflow.svg" width="145" alt="Power Platform: Automate / Apps" />
+  <img src="assets/specialty-agent.svg" width="145" alt="AI Agents: Copilot / Bedrock" />
+  <img src="assets/specialty-cloud.svg" width="145" alt="AWS & APIs: Cloud / Python" />
+  <img src="assets/specialty-robot.svg" width="145" alt="RPA: Enterprise automation" />
+  <img src="assets/specialty-search.svg" width="145" alt="RAG & Evals: Retrieval / Quality" />
 </p>
 
 ## 🚀 AI & automation projects
 
 <p align="center">
-  <a href="https://github.com/berniehans/AxiomRAG"><img src="assets/project-axiomrag-en.svg" width="49%" alt="AxiomRAG: Technical documents into cited answers. Hybrid retrieval and GPU reranking." /></a>
-  <a href="https://github.com/berniehans/OmniModel_Auditor"><img src="assets/project-omnimodel_auditor-en.svg" width="49%" alt="OmniModel Auditor: Compare local LLMs on consumer GPUs. Accuracy, JSON compliance and efficiency." /></a>
+  <a href="https://github.com/berniehans/AxiomRAG"><img src="assets/project-axiomrag-en.svg" width="400" alt="AxiomRAG: Technical documents into cited answers. Hybrid retrieval and GPU reranking." /></a>
+  <a href="https://github.com/berniehans/OmniModel_Auditor"><img src="assets/project-omnimodel_auditor-en.svg" width="400" alt="OmniModel Auditor: Compare local LLMs on consumer GPUs. Accuracy, JSON compliance and efficiency." /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/berniehans/OmniSearch_Mesh"><img src="assets/project-omnisearch_mesh-en.svg" width="49%" alt="OmniSearch Mesh: Six algorithms. One graph. Live race. Reproducible seeds and interactive paths." /></a>
-  <a href="https://github.com/berniehans/rust-fundamentals"><img src="assets/project-rust-fundamentals-en.svg" width="49%" alt="Rust Fundamentals: 20 chapters in one Cargo workspace. Ownership, concurrency and doc-tests." /></a>
+  <a href="https://github.com/berniehans/OmniSearch_Mesh"><img src="assets/project-omnisearch_mesh-en.svg" width="400" alt="OmniSearch Mesh: Six algorithms. One graph. Live race. Reproducible seeds and interactive paths." /></a>
+  <a href="https://github.com/berniehans/rust-fundamentals"><img src="assets/project-rust-fundamentals-en.svg" width="400" alt="Rust Fundamentals: 20 chapters in one Cargo workspace. Ownership, concurrency and doc-tests." /></a>
 </p>
 
 **Also building:** [LazyArcade](https://github.com/berniehans/lazyarcade) · [NASA Space Apps tools](https://github.com/berniehans/NSAC_SCRAPER)
