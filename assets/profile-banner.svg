@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Bernie Benitez — AI and RPA Solutions Architect</title><desc id="desc">Local-first AI, intelligent automation and applied research.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#211b40"/></linearGradient><linearGradient id="accent"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#7185b5" stroke-opacity=".3" stroke-width="2"><path d="M910 70L1040 145L930 245L810 160L910 70L930 245M1040 145L1140 65M1040 145L1150 255M810 160L720 85"/></g>
+<g fill="#60a5fa"><circle cx="910" cy="70" r="8"/><circle cx="810" cy="160" r="8"/><circle cx="1140" cy="65" r="5"/><circle cx="720" cy="85" r="5"/></g><g fill="#a78bfa"><circle cx="1040" cy="145" r="12"/><circle cx="930" cy="245" r="8"/><circle cx="1150" cy="255" r="5"/></g>
+<rect x="56" y="57" width="54" height="5" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI, Arial, sans-serif"><text x="56" y="125" fill="#f8fafc" font-size="48" font-weight="700">Bernie Benitez</text><text x="56" y="176" fill="#bfdbfe" font-size="29">AI &amp; RPA Solutions Architect</text><text x="56" y="225" fill="#c4b5fd" font-size="20">Local-first AI · Intelligent automation · Applied research</text><text x="56" y="277" fill="#94a3b8" font-size="17">7+ years in automation / MSc in Artificial Intelligence / Peru</text></g></svg>
