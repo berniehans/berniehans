@@ -6,7 +6,7 @@
 
 I design and deliver enterprise automation, from process discovery and architecture to deployment and support. My work combines Microsoft Power Platform, Copilot Studio, RPA, Python APIs and generative AI on AWS.
 
-**Currently at EVOL** · AI & Intelligent Automation Architect, since August 2026.
+**Currently at EVOL** · AI & Intelligent Automation Architect · 2026-08 – Present.
 
 <p align="center">
   <img src="assets/specialty-workflow.svg" width="145" alt="Power Platform: Automate / Apps" />
@@ -59,10 +59,10 @@ Earlier: Gesnext · Belltech · NTT Data · Indra · Equifax.
 
 ## 🎓 Education & milestones
 
-- **NASA Space Apps Challenge 2025:** National winner.
-- **International Indra Hackathon:** Winner.
-- **AI master's program · UNI, 2024–2025:** Coursework completed; **thesis pending**. Coursework average: 17/20.
-- **Computer and Systems Engineering · USIL:** Degree obtained in 2017.
+- National winner of NASA Space Apps Challenge 2025. Developed a Python REST API as the backend for an Amazon Bedrock agent with a knowledge base for a web application.
+- Winner of the International Indra Hackathon.
+- **Master's program in Artificial Intelligence · Universidad Nacional de Ingeniería (UNI) · 2024-2025:** Coursework completed; thesis pending. Coursework average: 17/20.
+- **Computer and Systems Engineering · Universidad San Ignacio de Loyola (USIL) · 2017:** Graduated; degree obtained in 2017.
 - [**Blue Prism Certified Developer ↗**](https://www.credly.com/badges/6b337c94-aaa3-4324-8088-55798c31cacf?source=linked_in_profile)
 
 <details>

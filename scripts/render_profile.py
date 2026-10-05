@@ -107,10 +107,9 @@ def readme(lang):
     body += '<p align="center"><a href="README.md">English</a> · <a href="README.es.md">Español</a></p>\n\n'
     body += f'<p align="center"><a href="{DATA["links"]["linkedin"]}">LinkedIn</a> · <a href="{DATA["links"]["email"]}">Email</a> · <a href="{career_file}">{career_label}</a> · <a href="{DATA["links"]["certification"]}">{cert_label}</a></p>\n\n'
     body += DATA['summary'][lang] + '\n\n'
-    if lang == 'en':
-        body += '**Currently at EVOL** · AI & Intelligent Automation Architect, since August 2026.\n\n'
-    else:
-        body += '**Actualmente en EVOL** · AI & Intelligent Automation Architect, desde agosto de 2026.\n\n'
+    current = DATA['experience'][0]
+    current_label = 'Currently at' if lang == 'en' else 'Actualmente en'
+    body += f'**{current_label} {current["company"]}** · {current["role"]} · {period(current, lang)}.\n\n'
     body += '<p align="center">\n' + '\n'.join(f'  <img src="assets/specialty-{s["kind"]}.svg" width="145" alt="{s["label"]}: {s["detail"]}" />' for s in DATA['specialties']) + '\n</p>\n\n'
     body += '## 🚀 AI & automation projects\n\n' if lang == 'en' else '## 🚀 Proyectos de IA y automatización\n\n'
     for start in (0, 2):
@@ -127,10 +126,12 @@ def readme(lang):
     body += '| ' + ('Company & role | Period' if lang == 'en' else 'Empresa y cargo | Periodo') + ' |\n|---|---|\n'
     for job in DATA['experience'][:2]:
         body += f'| **{job["company"]}** · {job["role"]} | {period(job, lang)} |\n'
-    text = 'Earlier: Gesnext · Belltech · NTT Data · Indra · Equifax.' if lang == 'en' else 'Anteriormente: Gesnext · Belltech · NTT Data · Indra · Equifax.'
+    text = ('Earlier: ' if lang == 'en' else 'Anteriormente: ') + ' · '.join(j['company'] for j in DATA['experience'][2:]) + '.'
     body += f'\n{text}  \n[**{career_label} →**]({career_file})\n\n'
     body += '## 🎓 Education & milestones\n\n' if lang == 'en' else '## 🎓 Formación y logros\n\n'
-    body += ('- **NASA Space Apps Challenge 2025:** National winner.\n- **International Indra Hackathon:** Winner.\n- **AI master\'s program · UNI, 2024–2025:** Coursework completed; **thesis pending**. Coursework average: 17/20.\n- **Computer and Systems Engineering · USIL:** Degree obtained in 2017.\n' if lang == 'en' else '- **NASA Space Apps Challenge 2025:** Ganador nacional.\n- **Hackathon Internacional de Indra:** Ganador.\n- **Maestría en IA · UNI, 2024–2025:** Cursos completados; **tesis pendiente**. Promedio de cursos: 17/20.\n- **Ingeniería en Informática y Sistemas · USIL:** Grado obtenido en 2017.\n')
+    body += '\n'.join('- ' + a[lang] for a in DATA['achievements']) + '\n'
+    for edu in DATA['education']:
+        body += f'- **{edu["program"][lang]} · {edu["institution"]} · {edu["dates"]}:** {edu["status"][lang]}\n'
     body += f'- [**{DATA["certification"]} ↗**]({DATA["links"]["certification"]})\n\n'
     body += '<details>\n<summary>🛠️ ' + ('Technical competencies & languages' if lang == 'en' else 'Competencias técnicas e idiomas') + '</summary>\n\n'
     for s in DATA['skills']:
