@@ -2,7 +2,15 @@
 
 <p align="center"><a href="README.md">English</a> · <a href="README.es.md">Español</a></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/bhbenitez/">LinkedIn</a> · <a href="mailto:berniebeniteza@gmail.com">Email</a> · <a href="CAREER.md">Full background</a> · <a href="https://www.credly.com/badges/6b337c94-aaa3-4324-8088-55798c31cacf?source=linked_in_profile">Certification</a></p>
+<p align="center"><a href="https://berniehans.pages.dev/">Website</a> · <a href="https://www.linkedin.com/in/bhbenitez/">LinkedIn</a> · <a href="mailto:berniebeniteza@gmail.com">Email</a> · <a href="CAREER.md">Full background</a> · <a href="https://www.credly.com/badges/6b337c94-aaa3-4324-8088-55798c31cacf?source=linked_in_profile">Certification</a></p>
+
+## 🌐 My new website
+
+[**Visit berniehans.pages.dev →**](https://berniehans.pages.dev/)
+
+A space for what I build, what I write, and what I am learning about AI, automation, technology and society. Built with **Astro and TypeScript**. Content is in Spanish.
+
+[Writing](https://berniehans.pages.dev/escritos/) · [Project lab](https://berniehans.pages.dev/laboratorio/) · [About me](https://berniehans.pages.dev/sobre-mi/)
 
 I design and deliver enterprise automation, from process discovery and architecture to deployment and support. My work combines Microsoft Power Platform, Copilot Studio, RPA, Python APIs and generative AI on AWS.
 
