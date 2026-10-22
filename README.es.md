@@ -2,7 +2,15 @@
 
 <p align="center"><a href="README.md">English</a> · <a href="README.es.md">Español</a></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/bhbenitez/">LinkedIn</a> · <a href="mailto:berniebeniteza@gmail.com">Email</a> · <a href="CAREER.es.md">Trayectoria completa</a> · <a href="https://www.credly.com/badges/6b337c94-aaa3-4324-8088-55798c31cacf?source=linked_in_profile">Certificación</a></p>
+<p align="center"><a href="https://berniehans.pages.dev/">Web personal</a> · <a href="https://www.linkedin.com/in/bhbenitez/">LinkedIn</a> · <a href="mailto:berniebeniteza@gmail.com">Email</a> · <a href="CAREER.es.md">Trayectoria completa</a> · <a href="https://www.credly.com/badges/6b337c94-aaa3-4324-8088-55798c31cacf?source=linked_in_profile">Certificación</a></p>
+
+## 🌐 Mi nueva web
+
+[**Visita berniehans.pages.dev →**](https://berniehans.pages.dev/)
+
+Un espacio para reunir lo que construyo, lo que escribo y lo que voy aprendiendo sobre IA, automatización, tecnología y sociedad. Construida con **Astro y TypeScript**.
+
+[Escritos](https://berniehans.pages.dev/escritos/) · [Laboratorio de proyectos](https://berniehans.pages.dev/laboratorio/) · [Sobre mí](https://berniehans.pages.dev/sobre-mi/)
 
 Diseño e implemento automatización empresarial, desde el levantamiento y la arquitectura hasta el despliegue y soporte. Mi trabajo combina Microsoft Power Platform, Copilot Studio, RPA, APIs en Python e IA generativa en AWS.
 
