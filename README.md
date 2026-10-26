@@ -36,6 +36,8 @@ I design and deliver enterprise automation, from process discovery and architect
   <a href="https://github.com/berniehans/rust-fundamentals"><img src="assets/project-rust-fundamentals-en.svg" width="400" alt="Rust Fundamentals: 20 chapters in one Cargo workspace. Ownership, concurrency and doc-tests." /></a>
 </p>
 
+<p align="center"><a href="https://github.com/berniehans/textector"><img src="assets/project-textector-en.svg" width="400" alt="textector: Explainable style signals for Spanish text. Local experimental prefilter for human review." /></a></p>
+
 **Also building:** [LazyArcade](https://github.com/berniehans/lazyarcade) · [NASA Space Apps tools](https://github.com/berniehans/NSAC_SCRAPER)
 
 <details>

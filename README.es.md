@@ -36,6 +36,8 @@ Diseño e implemento automatización empresarial, desde el levantamiento y la ar
   <a href="https://github.com/berniehans/rust-fundamentals"><img src="assets/project-rust-fundamentals-es.svg" width="400" alt="Rust Fundamentals: 20 capítulos en un workspace de Cargo. Ownership, concurrencia y doc-tests." /></a>
 </p>
 
+<p align="center"><a href="https://github.com/berniehans/textector"><img src="assets/project-textector-es.svg" width="400" alt="textector: Señales de estilo explicables para textos en español. Prefiltro local experimental para revisión humana." /></a></p>
+
 **Más proyectos:** [LazyArcade](https://github.com/berniehans/lazyarcade) · [NASA Space Apps tools](https://github.com/berniehans/NSAC_SCRAPER)
 
 <details>
